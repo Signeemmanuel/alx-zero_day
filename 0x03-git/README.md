@@ -1,1 +1,1 @@
-Hello, thid=s id is my second readme
+Hello, this is my second readme
